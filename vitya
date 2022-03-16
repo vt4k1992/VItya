@@ -1,0 +1,2 @@
+int foo(int N)
+{int i=0;for(int y=0;y<N;y++){i+=y*y;}return i;}
